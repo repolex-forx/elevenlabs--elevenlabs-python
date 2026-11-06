@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/elevenlabs/elevenlabs-python/commit/152f737d51767ca076c7341b290f157685dc1002",
       "git:hexsha": "152f737d51767ca076c7341b290f157685dc1002",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/elevenlabs/elevenlabs-python/commit/01b74c894d6ed4190900cf45f14e9e6b55fd3eb6",
