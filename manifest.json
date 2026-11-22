@@ -2630,7 +2630,9 @@
           "githubUrl": "https://github.com/python-websockets/websockets",
           "source": "build_file:requirements.txt"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/8af73bc840511d5f279603ba8f43018a116df661/chunk-001.nq.gz",
+      "dep": "dep/8af73bc840511d5f279603ba8f43018a116df661.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
