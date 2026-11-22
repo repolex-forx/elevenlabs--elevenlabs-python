@@ -2565,6 +2565,71 @@
       ],
       "ast": [
         "aggregate/ast/8af73bc840511d5f279603ba8f43018a116df661/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/8af73bc840511d5f279603ba8f43018a116df661.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "httpx",
+          "ecosystem": "PYPI",
+          "version": "0.21.2",
+          "githubOrg": "encode",
+          "githubRepo": "httpx",
+          "githubCommit": "f6b76571fa2d2ec89224dbcc82e1b6bfb7144d0f",
+          "githubTag": "0.21.2",
+          "githubUrl": "https://github.com/encode/httpx",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "pydantic",
+          "ecosystem": "PYPI",
+          "version": "1.9.2",
+          "githubOrg": "pydantic",
+          "githubRepo": "pydantic",
+          "githubCommit": "1d37ffd89c9e6607db2553eb830fea2fc028dc2f",
+          "githubTag": "v1.9.2",
+          "githubUrl": "https://github.com/pydantic/pydantic",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "pydantic-core",
+          "ecosystem": "PYPI",
+          "version": "2.18.2",
+          "githubOrg": "pydantic",
+          "githubRepo": "pydantic",
+          "githubUrl": "https://github.com/pydantic/pydantic",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.20",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.0.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "cf75e420a23c28fd6fd963573a55450db7237ab7",
+          "githubTag": "4.0.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "websockets",
+          "ecosystem": "PYPI",
+          "version": "11.0",
+          "githubOrg": "python-websockets",
+          "githubRepo": "websockets",
+          "githubCommit": "f516cf51e166ec0cc797fa6bb68b559e4c1fed8b",
+          "githubTag": "11.0",
+          "githubUrl": "https://github.com/python-websockets/websockets",
+          "source": "build_file:requirements.txt"
+        }
       ]
     }
   ],
