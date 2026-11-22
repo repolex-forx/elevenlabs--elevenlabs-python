@@ -3,6 +3,11 @@
   "repo": "elevenlabs-python",
   "versions": [
     {
+      "commit": "8af73bc840511d5f279603ba8f43018a116df661",
+      "tag": "v2.43.0",
+      "parsed_at": "2026-11-22T11:31:25.034480+00:00"
+    },
+    {
       "commit": "152f737d51767ca076c7341b290f157685dc1002",
       "tag": "",
       "parsed_at": "2026-11-06T02:40:47.217892+00:00"
